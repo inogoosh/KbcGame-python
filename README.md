@@ -15,13 +15,18 @@ A beginner-friendly command-line quiz game written in Python, inspired by the po
 ✅ Real KBC-like feel in command-line
 
 # 📂 File Information
-main.py	 [Main Python script that contains the logic, questions, and user interaction for the quiz game.]
 
-README.md [This File]
+📁 KBC-Game/
 
-.gitignore
+│
 
-LICENSE
+├── main.py          # Main Python script to run the game
+
+├── README.md        # This file
+
+├── .gitignore
+
+├── LICENSE
 
 # 🎯 Game Rules
 The game consists of 15 questions.
